@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/xisen/static/css/main.3b2ae1b9.css",
+    "main.css": "/xisen/static/css/main.48f28e27.css",
     "main.js": "/xisen/static/js/main.88615a51.js",
     "static/js/453.fe1a894d.chunk.js": "/xisen/static/js/453.fe1a894d.chunk.js",
     "static/media/coverBlog_02.jpg": "/xisen/static/media/coverBlog_02.0e07b3bbb580498e2349.jpg",
@@ -69,12 +69,12 @@
     "static/media/pi3.png": "/xisen/static/media/pi3.22542596a54a2ed7b348.png",
     "static/media/price-tab1.png": "/xisen/static/media/price-tab1.9d927f27f827970612c1.png",
     "index.html": "/xisen/index.html",
-    "main.3b2ae1b9.css.map": "/xisen/static/css/main.3b2ae1b9.css.map",
+    "main.48f28e27.css.map": "/xisen/static/css/main.48f28e27.css.map",
     "main.88615a51.js.map": "/xisen/static/js/main.88615a51.js.map",
     "453.fe1a894d.chunk.js.map": "/xisen/static/js/453.fe1a894d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b2ae1b9.css",
+    "static/css/main.48f28e27.css",
     "static/js/main.88615a51.js"
   ]
 }
